@@ -24,6 +24,7 @@ const SWATCHES = [
   'sandstone',
   'simplex',
   'sketchy',
+  'sketchy-colorful',
   'slate',
   'solar',
   'spacelab',
